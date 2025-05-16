@@ -11,7 +11,6 @@
 // can be popped only if out stack is empty we will put all items from in stack to out stack
 
 import java.util.Stack;
-
 class MyQueue {
 
     private Stack<Integer> in;

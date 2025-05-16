@@ -12,7 +12,6 @@
 // retrieval, and deletion in constant average time
 
 class MyHashMap {
-
     class Node {
         int key;
         int value;
